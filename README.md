@@ -1,6 +1,6 @@
 This project focuses on addressing the critical issue of misinformation in online health blogs. By utilizing a combination of machine learning models, the PageRank algorithm, and explainable AI techniques, the aim is to provide a comprehensive assessment of the credibility of health-related content. The project leverages a multidimensional approach to evaluate various aspects of web blogs, including website features, author credibility, and customer ratings.
 
----- Key Components:
+Key Components:
 
 1.Data Collection: Utilizes the fake health dataset from the Ginger Cannot Cure Cancer repository.
 
